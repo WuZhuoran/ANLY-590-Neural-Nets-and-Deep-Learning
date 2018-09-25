@@ -4,7 +4,9 @@ Georgetown University Spring 2018 ANLY-590 Neural Nets and Deep Learning.
 
 ## Assignments
 
-`09/06/2018` - Assignment 0
+`09/06/2018` - [Assignment 0](Assignment0)
+
+`9/24/2018` - [Assignment 1](Assignment1)
 
 ## Project
 
