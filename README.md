@@ -8,9 +8,13 @@ Georgetown University Spring 2018 ANLY-590 Neural Nets and Deep Learning.
 
 `9/24/2018` - [Assignment 1](Assignment1)
 
+`11/1/2018` - [Assignment 2](Assignment2)
+
 ## Project
 
-TBA
+[Project](Project) will contains all the materials about project except from the project repo.
+
+[Project Repo - Plant Seedlings Classification](https://github.com/WuZhuoran/Plant_Seedlings_Classification)
 
 ## Exercise
 
